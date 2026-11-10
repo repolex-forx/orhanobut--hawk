@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/orhanobut/hawk/commit/0b20db65d5a984bf8597915cafeb1276e5169e15",
       "git:hexsha": "0b20db65d5a984bf8597915cafeb1276e5169e15",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T04:10:06.632980+00:00"
     },
     {
       "@id": "https://repolex.ai/r/orhanobut/hawk/commit/117bc79a87339cfe17471e3f35f0c6a969e0d47a",
